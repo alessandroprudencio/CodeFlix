@@ -1,9 +1,9 @@
 # CodeFlix
 
-[Sobre o projeto e decisões arquiteturais](#sobre-decisoes-arquiteturais)
+* [Sobre o projeto e decisões arquiteturais](#sobre-decisões-arquiteturais)
 
 
-### sobre-decisoes-arquiteturais
+## Sobre decisões arquiteturais
 
 Front
 * Uma espécie de netflix
