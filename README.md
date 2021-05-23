@@ -4,6 +4,8 @@
 * [Decisões de projeto e de arquitetura](#decisões-de-projeto-e-de-arquitetura)
 * [Microsserviços](#microsserviços)
 * [Testes](#testes)
+* [CI/CD](#cicd)
+* [Kubernetes](#kbernetes)
 
 ## Sobre o projeto
 
@@ -76,3 +78,15 @@ Back
   * End-to-end
   * Selenium / frontend
   * Upload
+
+## CI/CD
+  * Para cada pull request gerada em uma aplicação, iniciaremos o processo  de CI
+  * GitHub Actions
+  * O Processo de CI será capaz de:
+    * Subir a aplicação usando Docker 
+    * Executar os testes
+    * Utilizaremos o Sonarqube
+  * No caso de acontecer o "merge" do Pull Request no "main" , o precesso de CD acontece :
+    * Fara a geração da imagem Docker
+    * Realizara o upload da imagem em um container registry
+    * Executará o deploy no Kubernetes
