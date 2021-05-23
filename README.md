@@ -7,6 +7,8 @@
 * [CI/CD](#cicd)
 * [Kubernetes](#kubernetes)
 * [Service Mesh](#service-mesh)
+* [Cloud Providers](#cloud-providers)
+
 
 ## Sobre o projeto
 
@@ -109,6 +111,12 @@ Back
      * Circuit Breaking
      * Requests Timeout
   * TLS/SSL com cert-manager
+
+## Cloud Providers
+  Utilizaremos os recursos necessarios para que possamos realizar o deploy das aplicações
+  * AWS
+  * GCP
+  * Azure
 
 
 
