@@ -6,6 +6,7 @@
 * [Testes](#testes)
 * [CI/CD](#cicd)
 * [Kubernetes](#kubernetes)
+* [Service Mesh](#service-mesh)
 
 ## Sobre o projeto
 
@@ -98,4 +99,16 @@ Back
   * Horizontal Pod Autoscaler (HPA) para escalar horizontalmente a aplicação
   * TLS/SSl com cert-manager
   * Kubelens para ter uma visão geral do cluster
+
+## Service Mesh
+  * Istio
+  *  Gerenciamento de  tráfego
+     * Virtual Service
+     * Ingress Gateway
+     * Envoy Sidecar Proxy
+     * Circuit Breaking
+     * Requests Timeout
+  * TLS/SSL com cert-manager
+
+
 
