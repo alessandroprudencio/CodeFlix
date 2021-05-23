@@ -1,4 +1,4 @@
-# CodeFlix
+# Codeflix
 
 * [Sobre o projeto](#sobre-o-projeto)
 * [Decisões de projeto e de arquitetura](#decisões-de-projeto-e-de-arquitetura)
@@ -57,12 +57,14 @@ Back
 * Autenticação 
   * Serviço centralizado de identidade opensource: Keycloak
   * OpenID Connect
-  * Tema customizado das telas de auth com react
+  * Tema customizado das telas de auth com React ou Vuejs
   * Compartilhamento de chave pública com os serviços para verificação de autenticidade dos tokens
   * Diversas categorias de ACL
 
 ## Microsserviços
   * Admin Catálogo de Videos (Backend com laravel)
-  * Admin Catálogo de Videos (Frontend com React)
+  * Admin Catálogo de Videos (Frontend com React ou Vuejs)
   * Encoder e Video com Golang ou Node.js
-  * API de Catalógo (Backend com Node.js)
+  * API do Catalógo (Backend com Node.js)
+  * Aplicação do Catálogo (Frontend com React.js ou Vuejs)
+  * Assinatura do Codeflix pelo cliente (Python com Django)
