@@ -1,6 +1,6 @@
 # CodeFlix
 
-[Sobre o projeto e decisões arquiteturais](sobre-decisoes-arquiteturais)
+[Sobre o projeto e decisões arquiteturais](#sobre-decisoes-arquiteturais)
 
 
 ### sobre-decisoes-arquiteturais
