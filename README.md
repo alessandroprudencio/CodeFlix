@@ -3,6 +3,7 @@
 * [Sobre o projeto](#sobre-o-projeto)
 * [Decisões de projeto e de arquitetura](#decisões-de-projeto-e-de-arquitetura)
 * [Microsserviços](#microsserviços)
+* [Testes](#testes)
 
 ## Sobre o projeto
 
@@ -68,3 +69,10 @@ Back
   * API do Catálogo (Backend com Node.js)
   * Aplicação do Catálogo (Frontend com React.js ou Vuejs)
   * Assinatura do Codeflix pelo cliente (Python com Django)
+
+## Testes
+  * Unidade
+  * Integração
+  * End-to-end
+  * Selenium / frontend
+  * Upload
