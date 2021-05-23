@@ -1,6 +1,9 @@
 # CodeFlix
 
-### Funcionalidades
+[Sobre o projeto e decisões arquiteturais](sobre-decisoes-arquiteturais)
+
+
+### sobre-decisoes-arquiteturais
 
 Front
 * Uma espécie de netflix
@@ -46,4 +49,13 @@ Back
 * Mensageria
  * Como grande parte da comunicação entre os microsserviços é assincrona, um sistema de mensagem é necessario
  * O RabbitMQ foi escolhido para esse caso
+
+* Resiliência e Self Healing
+ * Para garantir a Resiliência caso um ou mais microsserviços fiquem fora do ar, as filas serão essenciais
  
+* Autenticação 
+ * Serviço centralizado de identidade opensource: Keycloak
+ * OpenID Connect
+ * Tema customizado das telas de auth com react
+ * Compartilhamento de chave pública com os serviços para verificação de autenticidade dos tokens
+ * Diversos tipos de ACL
