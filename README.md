@@ -90,3 +90,12 @@ Back
     * Fara a geração da imagem Docker
     * Realizara o upload da imagem em um container registry
     * Executará o deploy no Kubernetes
+
+## Kubernetes
+  * Cluster Kubernetes gerenciado
+  * Deploy da aplicação
+  * Startup, Readiness Liveness Probe para self healing
+  * Horizontal Pod Autoscaler (HPA) para escalar horizontalmente a aplicação
+  * TLS/SSl com cert-manager
+  * Kubelens para ter uma visão geral do cluster
+
