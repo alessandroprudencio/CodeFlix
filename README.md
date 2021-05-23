@@ -62,9 +62,9 @@ Back
   * Diversas categorias de ACL
 
 ## Microsserviços
-  * Admin Catálogo de Videos (Backend com laravel)
-  * Admin Catálogo de Videos (Frontend com React ou Vuejs)
+  * Admin Catálogo de Vídeos (Backend com laravel)
+  * Admin Catálogo de Vídeos (Frontend com React ou Vuejs)
   * Encoder e Video com Golang ou Node.js
-  * API do Catalógo (Backend com Node.js)
+  * API do Catálogo (Backend com Node.js)
   * Aplicação do Catálogo (Frontend com React.js ou Vuejs)
   * Assinatura do Codeflix pelo cliente (Python com Django)
