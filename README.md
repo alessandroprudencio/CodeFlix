@@ -1,6 +1,6 @@
 # CodeFlix
 
-* [Funcionalidade](#funcionalidade)
+* [Funcionalidades](#funcionalidades)
 * [Decisões de projeto e de arquitetura](#decisões-de-projeto-e-de-arquitetura)
 * [Microsserviços](#microsserviços)
 * [Testes](#testes)
@@ -11,7 +11,7 @@
 * [Observabilidade](#observabilidade)
 * [Glossário](#glossário)
 
-## Funcionalidade
+## Funcionalidades
 
  Front
  * Uma espécie de netflix
