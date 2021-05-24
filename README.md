@@ -89,7 +89,7 @@
    * Subir a aplicação usando Docker 
    * Executar os testes
    * Utilizaremos o Sonarqube
- * No caso de acontecer o "merge" do Pull Request no "main" , o precesso de CD acontece :
+ * No caso de acontecer o "merge" do Pull Request no "main" , o processo de CD acontece :
    * Fara a geração da imagem Docker
    * Realizara o upload da imagem em um container registry
    * Executará o deploy no Kubernetes
@@ -113,7 +113,7 @@
  * TLS/SSL com cert-manager
 
 ## Cloud Providers
- Utilizaremos os recursos necessarios para que possamos realizar o deploy das aplicações
+ Utilizaremos os recursos necessários para podermos realizar o deploy das aplicações
  * AWS
  * GCP
  * Azure
@@ -134,5 +134,4 @@
      * Kibana
      * APM
  * Kiali
-
 
