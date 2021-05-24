@@ -9,7 +9,7 @@
 * [Service Mesh](#service-mesh)
 * [Cloud Providers](#cloud-providers)
 * [Observabilidade](#observabilidade)
-* [Glossário](#glossario)
+* [Glossário](#glossário)
 
 ## Sobre o projeto
 
