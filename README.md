@@ -9,6 +9,7 @@
 * [Service Mesh](#service-mesh)
 * [Cloud Providers](#cloud-providers)
 * [Observabilidade](#observabilidade)
+* [Glossário](#glossario)
 
 ## Sobre o projeto
 
@@ -135,3 +136,14 @@
      * APM
  * Kiali
 
+## Glossário
+ * Catalog = Catálogo de vídeos
+ * Category = Define o tipo de categorização de um video (ex: filme, documentário, serie,  infantil)
+ * Genre = Define o gênero do video (ex: terror, comédia, ação)
+ * Cast members = atores, diretores e outras pessoas responsáveis pela criação do video
+ * Featured video = Video em destaque na plataforma
+ * My Videos = Lista de vídeos favoritos do usuário
+ * Subscription = Assinatura que o cliente realiza no sistema para acessar a plataforma
+ * Plan = Plano que o usuário poderá contratar em uma assinatura para acessar a plataforma
+ * Client = Cliente que contrata o acesso na plataforma de vídeos
+ * User = Qualquer pessoa que tenha acesso ao sistema, independente de permissão ou função
